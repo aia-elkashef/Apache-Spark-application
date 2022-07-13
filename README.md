@@ -1,6 +1,6 @@
 # Apache-Spark-application-
 ##### Apache Spark application as end to end use case from data acquisition, transformation, model training and deployment.
-####This is the Final-project of Data Engineering and Machine Learning using Spark Course - IBM Data Engineering PROFESSIONAL CERTIFICATE on Coursera
+##### This is the Final-project of Data Engineering and Machine Learning using Spark Course - IBM Data Engineering PROFESSIONAL CERTIFICATE on Coursera
 
 WE will import data from an external dataset and create a DataFrame. save the data to a Parquet file and follow the steps to train the module using with Apache Spark. and complete the project by deploying the model to the IBM Watson Machine Learning (WML) Service. IBM WML is a scalable, scale-to-zero cloud service that supports training and serving of machine learning and deep learning models, providing a HTTP(S) endpoint for seamless consumption from third-party applications.  Detailed instructions provide guidance throughout the project.
 
